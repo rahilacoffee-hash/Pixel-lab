@@ -58,12 +58,17 @@ const Hero = () => {
               mechanisms to protect your business and your customers.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-3 sm:gap-4 mb-8 sm:mb-12 animate-in slide-in-from-bottom duration-700 delay-300 ">
-              <button className="group w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-b from-blue-600 to-slate-950 rounded-lg font-semibold text-sm sm:text-base transition-all duration-300 hover:scale-102 flex items-center justify-center space-x-2">
+               <a
+              href="#testimonials">
+              <button
+               
+              className="group w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-b from-blue-600 to-slate-950 rounded-lg font-semibold text-sm sm:text-base transition-all duration-300 hover:scale-102 flex items-center justify-center space-x-2">
                 <span
-                id="testimonials"
+               
                 >Contact Us</span>
                 <LuArrowBigRight className="w-4 sm:w-5 h-4 sm:h-5 group-hover:translate-x-1 transition-transform duration-300" />
               </button>
+              </a>
 
                <button className="group w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-t from-white/5 to-slate-950 rounded-lg font-semibold text-sm sm:text-base transition-all duration-300 hover:bg-white/10 flex items-center justify-center space-x-2 border border-white/10">
                 <div className="p-2 bg-white/10 rounded-full group-hover:bg-white/20 duration-300 transition-colors">

@@ -219,7 +219,7 @@ function Testimonials() {
                 <span className="text-cyan-300 font-semibold">
                   Available for work
                 </span>{" "}
-                — open to freelance & full-time roles
+              
               </p>
             </div>
           </div>
