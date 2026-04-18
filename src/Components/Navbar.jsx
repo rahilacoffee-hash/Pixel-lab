@@ -18,10 +18,13 @@ const Navbar = () => {
                 className="w-6 h-6 sm:w-8 sm:h-8"
               />
             </div>
+            <a
+              href="#home">
             <span className="text-lg sm:text-xl md:text-2xl font-bold">
               <span className="text-white">Pixel</span>
               <span className="text-blue-300">Lab</span>
             </span>
+            </a>
           </div>
 
           {/* Nav links */}
