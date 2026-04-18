@@ -138,7 +138,7 @@ function Features() {
                 Certificates
               </span>
             </div>
-            <span className="text-3xl font-black text-white">1</span>
+            <span className="text-3xl font-black text-white">4</span>
           </div>
           <p className="text-white/30 text-xs mb-4">
             Professional skills validated
